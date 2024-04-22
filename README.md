@@ -19,12 +19,12 @@ Users should be able to:
 
 ### Screenshot
 
-![]()
+![](./design/desktop-design.jpg)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Newsletter Subscribe](https://fm-newsletter-subscribe.netlify.app/index.html)
 
 
 
